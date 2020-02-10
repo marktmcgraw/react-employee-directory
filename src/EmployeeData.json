@@ -5,7 +5,8 @@
         "department": "Human Resources",
         "title": "Manager",
         "salary": "55000",
-        "email": "monet@company.com"
+        "email": "monet@company.com",
+        "status": "FT"
     },
     {
         "id": "2",
@@ -13,7 +14,8 @@
         "department": "Finance",
         "title": "Office Coordinator",
         "salary": "47000",
-        "email": "violet@company.com" 
+        "email": "violet@company.com",
+        "status": "PT"
     },
     {
         "id": "3",
@@ -21,7 +23,8 @@
         "department": "Sales",
         "title": "Manager",
         "salary": "60000",
-        "email": "katya@company.com" 
+        "email": "katya@company.com",
+        "status": "FT"
     },
     {
         "id": "4",
@@ -29,7 +32,8 @@
         "department": "Web Development",
         "title": "Project Manager",
         "salary": "70000",
-        "email": "trixie@company.com" 
+        "email": "trixie@company.com",
+        "status": "PT" 
     },
     {
         "id": "5",
@@ -37,7 +41,8 @@
         "department": "Admin",
         "title": "CFO",
         "salary": "90000",
-        "email": "kennedy@company.com" 
+        "email": "kennedy@company.com",
+        "status": "FT" 
     },
     {
         "id": "6",
@@ -45,7 +50,8 @@
         "department": "Operations",
         "title": "Manager",
         "salary": "75000",
-        "email": "dita@company.com" 
+        "email": "dita@company.com" ,
+        "status": "FT"
     },
     {
         "id": "7",
@@ -53,7 +59,8 @@
         "department": "Human Resources",
         "title": "Assistant Manager",
         "salary": "45000",
-        "email": "jasmine@company.com" 
+        "email": "jasmine@company.com",
+        "status": "PT" 
     },
     {
         "id": "8",
@@ -61,7 +68,8 @@
         "department": "Web Development",
         "title": "Junior Developer",
         "salary": "57000",
-        "email": "naomi@company.com" 
+        "email": "naomi@company.com",
+        "status": "PT" 
     },
     {
         "id": "9",
@@ -69,7 +77,8 @@
         "department": "Operations",
         "title": "Office Coordinator",
         "salary": "45000",
-        "email": "kimchi@company.com" 
+        "email": "kimchi@company.com" ,
+        "status": "FT"
     }
 ]
 

@@ -16,6 +16,12 @@
   padding: 20px;
 }
 
+.btn {
+
+  background-color: white;
+  color: #6794ec;
+}
+
 .Card {
   padding: 20px 20px 20px 20px;
   /* max-width: 18rem; */
@@ -24,6 +30,7 @@
   justify-content: space-between; 
   color: #6794ec;
   font-family: 'Russo One', sans-serif;
+  position: center;
   
   
 }

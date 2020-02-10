@@ -12,8 +12,8 @@ This Employee Directory React App is deployed with Netlify.
 
 ## Built With
 
-React - Web Framework 
-Bootstrap - CSS Styling
+React - Web Framework <br>
+Bootstrap - CSS Styling <br>
 Google Fonts - Font Styling
 
 ### Live Site:
@@ -22,4 +22,4 @@ Google Fonts - Font Styling
 
 ## Acknowledgements 
 
-I created this application using resources from my coding course curriculum, React documentation, troubleshooting tips from Stack Overflow, and with assistance of my Web Coding course instructors.
+I created this application using resources from my coding course curriculum, React documentation, troubleshooting tips from Stack Overflow, and with assistance from my Web Coding course instructors.
