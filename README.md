@@ -14,6 +14,7 @@ This Employee Directory React App is deployed with Netlify.
 
 React - Web Framework 
 Bootstrap - CSS Styling
+Google Fonts - Font Styling
 
 ### Live Site:
 
